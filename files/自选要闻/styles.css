@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:545px;
+  width:343px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -21,8 +21,8 @@
 }
 #u176 {
   position:absolute;
-  left:202px;
-  top:-5px;
+  left:0px;
+  top:0px;
   width:343px;
   height:551px;
 }
@@ -53,8 +53,8 @@
 }
 #u178 {
   position:absolute;
-  left:215px;
-  top:507px;
+  left:13px;
+  top:512px;
   width:57px;
   height:31px;
   opacity:0;
